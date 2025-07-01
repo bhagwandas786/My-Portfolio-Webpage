@@ -118,7 +118,7 @@ LinkedIn: Bhagwan Das Rathore
 
 GitHub: bhagwandas786
 
-Live Portfolio static website: https://myportfolio-webpage.s3.ap-southeast-1.amazonaws.com/portfolio/index.html
+Live Portfolio static website: http://myportfolio-static-webpage.s3-website-ap-southeast-1.amazonaws.com
 
 Thank you for visiting my portfolio! 😊
 
