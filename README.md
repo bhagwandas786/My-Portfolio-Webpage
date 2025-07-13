@@ -112,7 +112,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 Name: Bhagwan Das Rathore
 
-Email: bhagwandas.iiee29@edu.pk
+Email: bhagwandasiiee@gmail.com
 
 LinkedIn: Bhagwan Das Rathore
 
